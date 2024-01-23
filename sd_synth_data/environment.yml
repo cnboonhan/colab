@@ -1,4 +1,4 @@
-name: colab
+name: sd-synth-data
 channels:
   - defaults
 dependencies:
@@ -68,4 +68,3 @@ dependencies:
       - typing-extensions==4.9.0
       - urllib3==2.1.0
       - zipp==3.17.0
-prefix: /home/cnboonhan/miniconda3/envs/colab
